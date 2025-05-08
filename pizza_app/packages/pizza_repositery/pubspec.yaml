@@ -1,5 +1,5 @@
-name: user_repository
-description: The Repo that handles users
+name: pizza_repository
+description: The Repo that handles pizzas
 publish_to: 'none'
 version: 0.0.1
 
